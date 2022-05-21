@@ -1,0 +1,16 @@
+{
+"name":"@mahmoud_nouri_1369/module",
+"version":"1.0.0"
+"description": "save expriment-based modules",
+"license": "MIT",
+"repository": "mahmoud_nouri_1369/nodejs",
+"main": "index.js",
+"keywords": [
+   "nodejs",
+   "npm",
+   "package",
+   "mahmoud_nouri_1369"
+]
+
+}
+
